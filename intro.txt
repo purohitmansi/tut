@@ -1,1 +1,1 @@
-Welcome you all to this session on Git and GitHub.
+Welcome you all to this session on Git.
